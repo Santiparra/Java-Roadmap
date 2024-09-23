@@ -1,4 +1,4 @@
-package io.javabrains.javabasics;
+package innerClasses;
 
 /*
 Create a class `Animal2` with an abstract method `makeSound`.

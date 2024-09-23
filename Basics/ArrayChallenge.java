@@ -1,4 +1,4 @@
-package io.javabrains.javabasics;
+package arrays;
 
 public class ArrayChallenge {
     public static void main(String[] args) {

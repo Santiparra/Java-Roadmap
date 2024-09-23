@@ -1,4 +1,4 @@
-package io.javabrains.javabasics;
+package InstanceOf;
 
 public class InstanceOf {
 

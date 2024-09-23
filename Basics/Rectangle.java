@@ -1,4 +1,4 @@
-package io.javabrains.javabasics;
+package staticKeyword;
 
 /*
 Create a class `Rectangle` with the following attributes: `width`, `height`, and a static variable `numOfRectangles` which will keep track of the number of rectangles created.

@@ -1,4 +1,4 @@
-package io.javabrains.javabasics;
+package classesAndObjects;
 
 /*
 1.  Create a class called `Car` with member variables for the make, model, and year of the car.
