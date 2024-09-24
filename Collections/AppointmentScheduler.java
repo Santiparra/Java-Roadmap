@@ -1,5 +1,3 @@
-package io.javabrains.javacollections;
-
 import java.time.LocalDateTime;
 import java.util.NavigableSet;
 

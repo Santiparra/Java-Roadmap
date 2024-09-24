@@ -1,5 +1,3 @@
-package io.javabrains.javacollections;
-
 /*
 Print the list in forward and reverse order using iterators only
 */

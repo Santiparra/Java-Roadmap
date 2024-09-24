@@ -1,5 +1,3 @@
-package io.javabrains.javacollections;
-
 /*
 Create a Java program that allows a user to perform various operations on an ArrayList of integers.
 The program should display a menu of options, and the user should be able to select one of the following operations:

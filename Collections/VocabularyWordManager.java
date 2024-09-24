@@ -1,5 +1,3 @@
-package io.javabrains.javacollections;
-
 import java.util.Collection;
 import java.util.Set;
 import java.util.SortedSet;
