@@ -24,7 +24,7 @@ public class Operators {
         boolean isBGreater = b > a;
 
         // Step 7: Print the results of the comparison operations
-        System.out.println(isEqual);
+        //System.out.println(isEqual);
 
         // Step 8: Perform logical operations
         boolean isAGreater = a > b;

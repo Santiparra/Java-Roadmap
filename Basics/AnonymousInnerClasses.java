@@ -10,7 +10,7 @@ Create an anonymous inner class implementation of `Animal2` and then call the `m
     abstract void makeSound();
 }
 
-public class Main {
+public class AnonymousInnerClasses {
     public static void main(String[] args) {
         // Anonymous inner class implementation of Animal2
         Animal2 myAnimal = new Animal2() {
