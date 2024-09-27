@@ -60,40 +60,8 @@
       Garantiza una única instancia de una clase. Implementación típica incluye un constructor privado y un método estático para obtener la instancia.
 
     2. ¿Cuál es la diferencia entre el patrón Factory Method y el patrón Abstract Factory?
-
+      Factory Method: Define una interfaz para crear objetos, pero permite a las subclases decidir qué clase instanciar. Se enfoca en una familia de productos.
+      Abstract Factory: Proporciona una interfaz para crear familias de objetos relacionados sin especificar sus clases concretas. Ideal para productos relacionados o dependientes.
 
     3. ¿Cómo implementarías el patrón Builder en un proyecto real?
-
-
-## Concurrencia y Multithreading
-
-  ### Conceptos de Concurrencia:
-  
-    1. ¿Qué es la concurrencia y cuál es su importancia en el desarrollo de software?
-
-
-    2. ¿Cómo se manejan los hilos en Java y qué es synchronized?
-
-
-    3. Explica el concepto de condiciones de carrera y cómo evitarlo.
-
-
-## Base de Datos y Persistencia
-
-  ### SQL vs. NoSQL:
-  
-    1. ¿Cuál es la diferencia entre bases de datos SQL y NoSQL?
-
-
-    2. ¿Cómo diseñarías una base de datos relacional para una aplicación específica?
-
-
-
-  ### ORM:
-
-    1. ¿Qué es un ORM y cuáles son sus beneficios?
-
-
-    2. ¿Qué herramientas ORM has utilizado y cuál es tu preferida?
-
-
+      Separa la construcción de un objeto complejo de su representación, permitiendo crear diferentes representaciones del mismo objeto. Ideal para objetos inmutables o con múltiples parámetros.
